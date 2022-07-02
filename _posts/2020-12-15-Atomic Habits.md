@@ -139,7 +139,7 @@ Location 1353-1354 | Added on Monday, December 21, 2020 9:31:05 PM
 
 Location 1394-1396 | Added on Monday, December 21, 2020 9:52:28 PM
 
-'disciplined' people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
+> 'disciplined' people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
 
 Location 1396-1397 | Added on Monday, December 21, 2020 9:54:21 PM
 
@@ -175,7 +175,7 @@ Location 1635-1636 | Added on Wednesday, December 23, 2020 10:13:22 PM
 
 Location 1644-1646 | Added on Wednesday, December 23, 2020 10:16:27 PM
 
-Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
+> Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
 Location 1717-1717 | Added on Thursday, December 24, 2020 11:51:54 PM
 
@@ -257,21 +257,13 @@ Location 2408-2409 | Added on Tuesday, January 19, 2021 9:23:51 PM
 
 > Commitment devices are useful because they enable you to take advantage of good intentions before you can fall victim to temptation.
 
-Location 2635-2637 | Added on Wednesday, January 20, 2021 10:20:47 PM
-
-> With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse: the immediate outcome is unenjoyable
-
 Location 2635-2637 | Added on Wednesday, January 20, 2021 10:20:52 PM
 
 > With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse: the immediate outcome is unenjoyable, but the ultimate outcome feels good.
 
 Location 2640-2640 | Added on Wednesday, January 20, 2021 10:21:32 PM
 
-> Put another way, the costs of your good habits are in the present.
-
-Location 2640-2640 | Added on Wednesday, January 20, 2021 10:21:36 PM
-
-> the costs of your good habits are in the present. The costs of your bad habits are in the future.
+> Put another way, the costs of your good habits are in the present. The costs of your bad habits are in the future.
 
 Location 2657-2658 | Added on Wednesday, January 20, 2021 10:26:07 PM
 
@@ -332,10 +324,6 @@ Location 3284-3285 | Added on Tuesday, January 26, 2021 10:37:54 PM
 Location 3285-3287 | Added on Tuesday, January 26, 2021 10:38:19 PM
 
 > Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life.
-
-Location 3289-3289 | Added on Tuesday, January 26, 2021 10:38:55 PM
-
-> Professionals take action even when the mood isn't
 
 Location 3289-3290 | Added on Tuesday, January 26, 2021 10:39:00 PM
 
