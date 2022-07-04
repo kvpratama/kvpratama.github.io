@@ -1,8 +1,8 @@
 ---
 title: "Atomic Habits: Tiny Changes, Remarkable Results (James Clear)"
 date: 2020-12-15 20:50:15 +0900
-categories: books
-tags: books highlight notes
+categories: book
+tags: book highlight note
 ---
 
 Location 259-260 | Added on Tuesday, December 15, 2020 8:50:15 PM

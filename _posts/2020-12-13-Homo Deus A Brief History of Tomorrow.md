@@ -1,8 +1,8 @@
 ---
 title: "Homo Deus A Brief History of Tomorrow by Yuval Noah Harari"
 date: 2020-12-13 15:12:45 +0900
-categories: books
-tags: books highlight notes
+categories: book
+tags: book highlight note
 ---
 
 Location 503-504 | Added on Sunday, December 13, 2020 3:12:45 PM
