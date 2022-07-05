@@ -11,7 +11,10 @@ found = []
 
 for a in arr:
     if keyword in a:
-        clean = a.split('Your Highlight on ')[1:][0].replace('\r\n\r\n', '\r\n> ')
+        try:
+            clean = a.split('Your Highlight on ')[1:][0].replace('\r\n\r\n', '\r\n> ')
+        except:
+            pass
 
         # replace Em Dash '—' with '-'
         clean = clean.replace("—", "-")
@@ -20,9 +23,16 @@ for a in arr:
 
         # replace ’ with "'"
         clean = clean.replace("’", "'")
+        clean = clean.replace("ʼ", "'")
 
         # replace ” with '"'
         clean = clean.replace('”', '"')
+        # replace “ with '"'
+        clean = clean.replace('“', '"')
+
+        clean = clean.replace('ê', 'e')
+        clean = clean.replace('é', 'e')
+
 
         found.append(clean)
 
